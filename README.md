@@ -1,6 +1,7 @@
 ## Hi there 👋
-Boas vindas ao meu perfil 💙💙
-Meu nome é Kauezin1107
+**Boas vindas ao meu perfil** 💙💙
+
+**Meu nome é Kauezin1107**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
