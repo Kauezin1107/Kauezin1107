@@ -11,6 +11,7 @@ Você pode entrar em contato comigo 📫
 
 0000111379754XP@al.educacao.sp.gov.br
 
+![](https://media1.tenor.com/m/uUy7LkxW1R4AAAAC/neymar-neymar-jr.gif)
 <!--
 **Kauezin1107/Kauezin1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
